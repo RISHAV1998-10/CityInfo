@@ -7,10 +7,11 @@ C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\CityI
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csprojAssemblyReference.cache
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.AssemblyInfoInputs.cache
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.AssemblyInfo.cs
-C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cache
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorAssemblyInfo.cs
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.RazorTargetAssemblyInfo.cache
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.dll
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.pdb
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.genruntimeconfig.cache
+C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\nlog.config
+C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
