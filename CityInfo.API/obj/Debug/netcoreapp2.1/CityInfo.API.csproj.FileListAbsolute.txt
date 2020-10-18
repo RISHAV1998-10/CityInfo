@@ -15,3 +15,5 @@ C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityI
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.genruntimeconfig.cache
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\nlog.config
 C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\obj\Debug\netcoreapp2.1\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\RISHAV\source\repos\CityInfo\CityInfo.API\bin\Debug\netcoreapp2.1\appsettings.Production.json
